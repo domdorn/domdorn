@@ -74,10 +74,10 @@ A chronological list of talks I've given at conferences and meetups.
 | 2016-12-05 | Tools of the Trade | Java Vienna Meetup | [event](https://www.meetup.com/java-vienna/events/235412579/) |
 | 2017-06-12 | Getting started with Akka | Java Vienna Meetup | [event](https://www.meetup.com/java-vienna/events/238559127/) |
 | 2018-02-26 | Event-Sourcing w/ Play! & Akka | Java Vienna Meetup | [event](https://www.meetup.com/java-vienna/events/247510527/) |
-| 2018-03-12 | High Performance event sourced clustered Microservices with Play! & Akka | Voxxed Days Vienna 2018 | [video](https://www.youtube.com/watch?v=H_6hc1J9GHA) |
+| 2018-03-12 | High Performance event sourced clustered Microservices with Play! & Akka | Voxxed Days Vienna 2018 | [video](https://www.youtube.com/watch?v=VoxuTEBQB7E) |
 | 2018-04-16 | Quick Overview of Spring Boot 1.x | Java Vienna Meetup | [event](https://www.meetup.com/java-vienna/events/248996149/) |
 | 2018-04-16 | What's new in Spring Boot 2 | Java Vienna Meetup | [event](https://www.meetup.com/java-vienna/events/248996149/) |
-| 2018-06-04 | High-Performance event-sourced clustered Microservices with Play! & Akka | Scala Vienna Meetup | [event](https://www.meetup.com/scala-vienna/events/250206727/) |
+| 2018-06-04 | High-Performance event-sourced clustered Microservices with Play! & Akka | Scala Vienna Meetup | [video](https://www.youtube.com/watch?v=p3AQ4Ax4uKo) · [event](https://www.meetup.com/scala-vienna/events/250206727/) |
 | 2018-09-17 | Running Vaadin 10 on Play!Framework | Java Vienna Meetup | [event](https://www.meetup.com/java-vienna/events/254044447/) |
 | 2019-03-25 | Project Quarkus: Kubernetes Native Java stack tailored for GraalVM | Java Vienna Meetup | [event](https://www.meetup.com/java-vienna/events/259698040/) |
 | 2021-10-18 | What's new in Java | Java Vienna Meetup | [event](https://www.meetup.com/java-vienna/events/280658091/) |
