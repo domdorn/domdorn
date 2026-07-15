@@ -21,17 +21,17 @@ online communities, working on Java EE servers, founding and failing an ed-tech 
 holding employed roles across finance, government, education, and automotive, and taking
 on freelance work in e-commerce, emergency alerting, recruiting, and the energy sector.
 
-Along the way he has stayed close to open source — contributing around the Play Framework
-and OpenTCK, running the JavaVienna community on GitHub, and earning an Arctic Code Vault
-Contributor badge — and has been braindumping on his blog since 2007.
+Along the way he has stayed close to open source — contributing around the [Play Framework](https://playframework.com)
+and OpenTCK, running the [JavaVienna](https://java.wien/) community, and earning an Arctic Code Vault
+Contributor badge on GitHub — and has been braindumping on his [blog](https://dominikdorn.com/) since 2007.
 
-In May 2025, the Clawfather himself introduced him to Claude Code, which is now his daily
-driver for almost everything.
+In May 2025, the [Clawfather](https://github.com/steipete/) himself introduced him to Claude Code, 
+which is now his daily driver for almost everything.
 
 ### Short bio (for CFPs / intros)
 
-> Dominik Dorn is a JUG leader (Vienna JUG / Java Vienna Meetup), conference co-organizer
-> (DevFest Vienna), and passionate programmer since 1998 — with Java since 2006 and Scala
+> Dominik Dorn is a JUG leader (Vienna JUG / [Java Vienna Meetup](https://java.wien/)), conference co-organizer
+> ([DevFest Vienna](https://devfest.at)), and passionate programmer since 1998 — with Java since 2006 and Scala
 > for the last nine years. His 25-year career spans online communities, Java EE servers,
 > a failed ed-tech startup, and employed and freelance work across finance, government,
 > education, automotive, e-commerce, emergency alerting, recruiting, and energy. Since May
@@ -52,12 +52,12 @@ Build tooling (sbt, Maven) · Claude Code
 - **Vienna JUG / Java Vienna Meetup** — JUG Leader & organizer ([github.com/JavaVienna](https://github.com/JavaVienna))
 - **DevFest Vienna** — Co-organizer
 - **Play Framework**, **OpenTCK**, **JavaVienna** — open-source member & contributor
-
 ---
+
 
 ## Talks
 
-A chronological list of talks I've given at conferences and meetups.
+A (almost complete) chronological list of talks I've given at conferences and meetups.
 
 | Date | Talk | Venue | Links |
 | --- | --- | --- | --- |
@@ -93,7 +93,7 @@ A chronological list of talks I've given at conferences and meetups.
 
 ## Find me
 
-- Web: [dominikdorn.com](https://www.dominikdorn.com) — braindumps & more, since 2007
-- GitHub: [@domdorn](https://github.com/domdorn)
-- X: [@domdorn](https://x.com/domdorn)
 - LinkedIn: [dominik-dorn](https://www.linkedin.com/in/dominik-dorn/)
+- X: [@domdorn](https://x.com/domdorn)
+- GitHub: [@domdorn](https://github.com/domdorn)
+- Web: [dominikdorn.com](https://www.dominikdorn.com) — braindumps & more
