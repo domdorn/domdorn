@@ -34,14 +34,13 @@ which is now his daily driver for almost everything.
 > ([DevFest Vienna](https://devfest.at)), and passionate programmer since 1998 — with Java since 2006 and Scala
 > for the last nine years. His 25-year career spans online communities, Java EE servers,
 > a failed ed-tech startup, and employed and freelance work across finance, government,
-> education, automotive, e-commerce, emergency alerting, recruiting, and energy. Since May
-> 2025, Claude Code has been his daily driver for almost everything.
+> education, automotive, e-commerce, emergency alerting, recruiting, and energy. 
 
 ---
 
 ## What I work with
 
-`Scala` · `Java` · Functional Programming · Play Framework · Akka · Quarkus · Spring Boot ·
+`Scala` · `Java` · Functional Programming · Play Framework · Akka · Pekko · Quarkus · Spring Boot ·
 GraalVM · Vaadin · PostgreSQL · jOOQ · Docker & Linux Containers · Keycloak · Java EE ·
 Build tooling (sbt, Maven) · Claude Code
 
