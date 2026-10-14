@@ -35,6 +35,8 @@ which is now his daily driver for almost everything.
 > for the last nine years. His 25-year career spans online communities, Java EE servers,
 > a failed ed-tech startup, and employed and freelance work across finance, government,
 > education, automotive, e-commerce, emergency alerting, recruiting, and energy. 
+> Currently, he's helping SMBs to unblock their performance with the help of bespoke software and AI, as well 
+> as co-building the [interior design](https://nouschin.com) business of his wife.
 
 ---
 
@@ -81,12 +83,12 @@ A (almost complete) chronological list of talks I've given at conferences and me
 | 2019-03-25 | Project Quarkus: Kubernetes Native Java stack tailored for GraalVM | Java Vienna Meetup | [event](https://www.meetup.com/java-vienna/events/259698040/) |
 | 2021-10-18 | What's new in Java | Java Vienna Meetup | [event](https://www.meetup.com/java-vienna/events/280658091/) |
 | 2022-10-03 | Look Ma', I made a Website!: Keycloak, Meetup, Quarkus, Wordpress | Java Vienna Meetup | [slides](https://github.com/JavaVienna/2022-10-03_keycloak-meetup-idp/blob/main/2022-10-03_keycloak_meetup_quarkus_wordpress.pdf) · [code](https://github.com/JavaVienna/2022-10-03_keycloak-meetup-idp) · [event](https://www.meetup.com/java-vienna/events/287658623/) |
-| 2024-01-08 | Java 21 | Java Vienna Meetup | [slides](https://github.com/JavaVienna/2024-01-08_Slides/blob/main/whatsnewinjava-17to21.pdf) · [code](https://github.com/JavaVienna/2024-01-08_WhatsNewInJava21) · [event](https://www.meetup.com/java-vienna/events/296033487/) |
-| 2025-01-27 | The power of Graal: Using JavaScript, Python and WebAssembly in your Java Apps | Java Vienna Meetup | [slides](https://github.com/JavaVienna/2025-01-27_graalvm_polyglot/blob/main/presentation/presentation.pdf) · [code](https://github.com/JavaVienna/2025-01-27_graalvm_polyglot) · [event](https://www.meetup.com/java-vienna/events/305515073/) |
+| 2024-01-08 | Java 21 | Java Vienna Meetup | [video](https://videos.ijug.eu/w/6M288fdv1sLverkyo1D81U) · [slides](https://github.com/JavaVienna/2024-01-08_Slides/blob/main/whatsnewinjava-17to21.pdf) · [code](https://github.com/JavaVienna/2024-01-08_WhatsNewInJava21) · [event](https://www.meetup.com/java-vienna/events/296033487/) |
+| 2025-01-27 | The power of Graal: Using JavaScript, Python and WebAssembly in your Java Apps | Java Vienna Meetup | [video](https://videos.ijug.eu/w/fupqAfKSQH3AP2Bu9X2oEf) · [slides](https://github.com/JavaVienna/2025-01-27_graalvm_polyglot/blob/main/presentation/presentation.pdf) · [code](https://github.com/JavaVienna/2025-01-27_graalvm_polyglot) · [event](https://www.meetup.com/java-vienna/events/305515073/) |
 | 2026-02-16 | JobRunR – Easy Java Job Scheduling | Java Vienna Meetup | [slides](https://github.com/JavaVienna/2026-02-16_jobrunr_easy_java_job_scheduling/blob/main/presentation.pdf) |
 | 2026-02-16 | Fullstack in a native.image | Java Vienna Meetup | [slides](https://github.com/JavaVienna/2026-02-16_fullstack_in_a_bin/blob/main/presentation.pdf) · [code](https://github.com/JavaVienna/2026-02-16_fullstack_in_a_bin) |
-| 2026-04-07 | Here we go again: Java 26 | Java Vienna Meetup | [slides](https://github.com/JavaVienna/2026-04-07_java26/blob/main/presentation.pdf) · [code](https://github.com/JavaVienna/2026-04-07_java26) · [event](https://www.meetup.com/java-vienna/events/313196243/) |
-| 2026-06-01 | Armeria: The Microservices Framework You Haven't Tried Yet | Java Vienna Meetup | [slides](https://github.com/JavaVienna/2026-06-01_armeria_microservices_framework/blob/main/slides/presentation.pdf) · [code](https://github.com/JavaVienna/2026-06-01_armeria_microservices_framework) · [event](https://www.meetup.com/java-vienna/events/314639727/) |
+| 2026-04-07 | Here we go again: Java 26 | Java Vienna Meetup | [video](https://videos.ijug.eu/w/nKvgVUgpEC8Reo3Zpv5Ztk) · [slides](https://github.com/JavaVienna/2026-04-07_java26/blob/main/presentation.pdf) · [code](https://github.com/JavaVienna/2026-04-07_java26) · [event](https://www.meetup.com/java-vienna/events/313196243/) |
+| 2026-06-01 | Armeria: The Microservices Framework You Haven't Tried Yet | Java Vienna Meetup | [video](https://videos.ijug.eu/w/rJkCR85Vk6yd3Jh2W6q36C) · [slides](https://github.com/JavaVienna/2026-06-01_armeria_microservices_framework/blob/main/slides/presentation.pdf) · [code](https://github.com/JavaVienna/2026-06-01_armeria_microservices_framework) · [event](https://www.meetup.com/java-vienna/events/314639727/) |
 
 ---
 
